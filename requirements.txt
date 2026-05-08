@@ -1,0 +1,24 @@
+# ======================
+# Core PyTorch stack
+# ======================
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+
+# CUDA (pip wheel handles this automatically if installed via index-url)
+
+# ======================
+# Scientific computing
+# ======================
+numpy>=1.24
+scipy>=1.10
+
+# ======================
+# Visualization
+# ======================
+matplotlib>=3.7
+
+# ======================
+# Utilities (optional but common in ML code)
+# ======================
+tqdm>=4.66
