@@ -1,4 +1,17 @@
-# Implicit OT — Fixed-Point-Based Implicit Optimal Transport
+# Implicit OT: Fixed-Point Neural Optimal Transport without Implicit Differentiation
+
+<p align="center">
+  <i>Fixed-Point Neural Optimal Transport without Implicit Differentiation</i>
+</p>
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2605.10792">📄 Paper</a> •
+  <a href="https://github.com/Yebbi/ImplicitOT">💻 Code</a>
+</p>
+
+---
+
+## 📌 Overview
 
 This repository implements **Implicit Optimal Transport (Implicit OT)**, a single-network formulation of quadratic optimal transport based on a proximal fixed-point reformulation of the Kantorovich dual problem.
 
